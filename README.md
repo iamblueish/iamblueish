@@ -1,6 +1,6 @@
 <h1 align="center">hi, im blueish</h1>
 
-- im currently learning vue
+- im currently learning ui & ux
 
 - how to reach me **blueish#9999**
 
