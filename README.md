@@ -2,7 +2,7 @@
 
 - im currently learning ui & ux
 
-- how to reach me **blueish#9999**
+- how to reach me **blueish#0139**
 
 
 <h3 align="left">languages and tools:</h3>
