@@ -1,6 +1,6 @@
 <h1 align="center">hi, im blueish</h1>
 
-- im currently learning ui & ux
+- im currently learning react
 
 - how to reach me **blueish#0139**
 
